@@ -4,7 +4,7 @@
 [Salesforce DevTools](https://www.xgeek.net/salesforce/tesforce-for-google-chrome/) is a Chrome extension for Salesforce developer, based on everything we need in Salesforce development, supports:
 
 - [Exporting Object Fields API Reference as Excel](#1-exporting-object-fields-api-reference)
-- [Exporting Salesforce data model (ERDs) as svg](2-exporting-salesforce-data-model-erds)
+- [Exporting Salesforce data model (ERDs) as svg](#2-exporting-salesforce-data-model-erds)
 - [Show/Hide field API name on object detail page](#3-showhide-api-name)
 - [Apex Code Generator, Generating test data Apex Code](#4-apex-code-generator)
 - [Query Editor, generating SOQL by mouse click, exporting query result to Excel](#5-query-editor)
