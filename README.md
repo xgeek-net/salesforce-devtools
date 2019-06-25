@@ -3,15 +3,15 @@
 ## Overview
 [Salesforce DevTools](https://www.xgeek.net/salesforce/tesforce-for-google-chrome/) is a Chrome extension for Salesforce developer, based on everything we need in Salesforce development, supports:
 
-- Exporting Object Fields API Reference as Excel.
-- Exporting Salesforce data model (ERDs) as svg.
-- Show/Hide field API name on object detail page.
-- Apex Code Generator, Generating test data Apex Code.
-- Query Editor, generating SOQL by mouse click, exporting query result to Excel.
-- Object Search, quickly access to new record page, listview page and object setting page.
-- Powerful Debug Log search and viewer.
-- All check on profile edit and field permission edit page (Only Classic).
-- Mass edit, mass delete, mass clone custom fields (Only Classic).
+- [Exporting Object Fields API Reference as Excel](#1-exporting-object-fields-api-reference)
+- [Exporting Salesforce data model (ERDs) as svg](2-exporting-salesforce-data-model-erds)
+- [Show/Hide field API name on object detail page](#3-showhide-api-name)
+- [Apex Code Generator, Generating test data Apex Code](#4-apex-code-generator)
+- [Query Editor, generating SOQL by mouse click, exporting query result to Excel](#5-query-editor)
+- [Object Search, quickly access to new record page, listview page and object setting page](#6-object-search)
+- [Powerful Debug Log search and viewer](#7-debug-log-search-and-viewer)
+- [All check on profile edit and field permission edit page (Only Classic)](#8-all-check)
+- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#9-mass-edit-custom-fields)
 
 ![Saleforce-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
 
@@ -71,6 +71,8 @@ Open DevTools on any object page or debug logs page, then you can search any tex
 This feature works on any profile edit page, field permission edit page, as below:
 
 ![Salesforce-DevTools-All-Check](https://user-images.githubusercontent.com/5466487/60066348-caa52600-9741-11e9-9674-4ddbe97ce985.gif)
+
+It will save you many many time on Salesforce deploy.
 
 
 ### 9. Mass Edit custom fields
