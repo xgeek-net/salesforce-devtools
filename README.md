@@ -1,6 +1,5 @@
 # Salesforce Devtools - Powerful Tools for SFDC Developer
 
-## Overview
 [Salesforce DevTools](https://www.xgeek.net/salesforce/tesforce-for-google-chrome/) is a Chrome extension for Salesforce developer, based on everything we need in Salesforce development, supports:
 
 - [Exporting Object Fields API Reference as Excel](#1-exporting-object-fields-api-reference)
