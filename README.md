@@ -9,10 +9,11 @@
 - [Exporting Page Layout Definitions as Excel](#5-exporting-object-page-layout-definitions)
 - [Exporting List View Definitions as Excel](#6-exporting-object-list-view-definitions)
 - [Apex Code Generator, Generating test data Apex Code](#7-apex-code-generator)
-- [Object Search, quickly access to new record page, listview page and object setting page](#8-object-search)
-- [Powerful Debug Log search and viewer](#9-debug-log-search-and-viewer)
-- [All check on profile edit and field permission edit page (Only Classic)](#10-all-check)
-- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#11-mass-edit-custom-fields)
+- [Objects Search, quickly access to new record page, listview page and object setting page](#8-objects-search)
+- [Object Fields Search, quickly search all fields and show its data usage](#9-object-fields)
+- [Powerful Debug Log search and viewer](#10-debug-log-search-and-viewer)
+- [All check on profile edit and field permission edit page (Only Classic)](#11-all-check)
+- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#12-mass-edit-custom-fields)
 
 ![Saleforce-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
 
@@ -28,7 +29,8 @@ This feature support to edit soql and export query results to excel file easily,
 
 ![Saleforce-DevTools-Query-Editor](https://user-images.githubusercontent.com/5466487/92326662-d18e2f00-f08e-11ea-9d89-ebcb75198c9e.gif)
 
-![Saleforce-DevTools-Export-Query-Results](https://user-images.githubusercontent.com/5466487/60065199-fde5b600-973d-11e9-9233-2d985a59fe81.gif)
+![Salesforce DevTools Query Editor v3 9 0](https://user-images.githubusercontent.com/5466487/151700305-53b720f0-4930-477a-86f1-b07d10534b40.gif)
+
 
 ### 2. Show/Hide API Name
 This feature is available on any object record detail page, both Classic and Lightning, as below: 
@@ -68,7 +70,7 @@ This feature is available on any object record detail page, it generates Apex Co
 ![Saleforce-DevTools-Apex-Code-Generator](https://user-images.githubusercontent.com/5466487/60065095-a2b3c380-973d-11e9-940d-cf7989d9f953.png)
 
 
-### 8. Object Search
+### 8. Objects Search
 Quickly search and access object new record, ListView, setting and API docs page, supports both Classic and Lightning, as below:
 
 <img width="451" alt="Saleforce-DevTools-Object-Search" src="https://user-images.githubusercontent.com/5466487/60065866-3ab2ac80-9740-11e9-8787-b2fd48498ff4.png">
@@ -81,12 +83,18 @@ Quickly search and access object new record, ListView, setting and API docs page
 |  ④  |  Salesforce object api page (only standard)  |
 |  ⑤  |  Object Query Editor  |
 
-### 9. Debug Log Search and Viewer
+### 9. Object Fields
+Quickly search all fields and show its data usage, as below:
+
+![Salesforce DevTools Object Fields v3 9 0](https://user-images.githubusercontent.com/5466487/151700291-17533a95-81c3-4d6f-97c2-7fdc0d9f53ef.gif)
+
+
+### 10. Debug Log Search and Viewer
 Open DevTools on any object page or debug logs page, then you can search any text in all Debug Logs as below:
 
 ![Salesforce-DevTools-Debug-Logs-Viewer](https://user-images.githubusercontent.com/5466487/60066281-93cf1000-9741-11e9-9573-e0105a6db369.gif)
 
-### 10. All Check
+### 11. All Check
 This feature works on any profile edit page, field permission edit page, as below:
 
 ![Salesforce-DevTools-All-Check](https://user-images.githubusercontent.com/5466487/60066348-caa52600-9741-11e9-9674-4ddbe97ce985.gif)
@@ -94,7 +102,7 @@ This feature works on any profile edit page, field permission edit page, as belo
 It will save you many many time on Salesforce deploy.
 
 
-### 11. Mass Edit custom fields
+### 12. Mass Edit custom fields
 Mass edit, mass delete, mass clone features work on any object fields page, as below: 
 
 ![Salesforce-DevTools-Mass-Edit-Fields](https://user-images.githubusercontent.com/5466487/60066374-de508c80-9741-11e9-915d-ddf5ab336f15.gif)
