@@ -11,9 +11,10 @@
 - [Apex Code Generator, Generating test data Apex Code](#7-apex-code-generator)
 - [Objects Search, quickly access to new record page, listview page and object setting page](#8-objects-search)
 - [Object Fields Search, quickly search all fields and show its data usage](#9-object-fields)
-- [Powerful Debug Log search and viewer](#10-debug-log-search-and-viewer)
-- [All check on profile edit and field permission edit page (Only Classic)](#11-all-check)
-- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#12-mass-edit-custom-fields)
+- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#10-mass-edit-custom-fields)
+- [Powerful Debug Log search and viewer](#11-debug-log-search-and-viewer)
+- [All check on profile edit and field permission edit page (Only Classic)](#12-all-check)
+
 
 ![Saleforce-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
 
@@ -88,25 +89,24 @@ Quickly search all fields and show its data usage, as below:
 
 ![Salesforce DevTools Object Fields v3 9 0](https://user-images.githubusercontent.com/5466487/151700291-17533a95-81c3-4d6f-97c2-7fdc0d9f53ef.gif)
 
+### 10. Mass Edit custom fields
+Mass edit, mass delete, mass clone features work on any object fields page, as below: 
 
-### 10. Debug Log Search and Viewer
+![Salesforce-DevTools-Mass-Edit-Fields](https://user-images.githubusercontent.com/5466487/230711495-6fe3d5a7-fa7a-4d65-874a-e728040bab26.gif)
+
+Clone to feature support to clone fields from one object to another, no need to create each again any more.
+
+### 11. Debug Log Search and Viewer
 Open DevTools on any object page or debug logs page, then you can search any text in all Debug Logs as below:
 
 ![Salesforce-DevTools-Debug-Logs-Viewer](https://user-images.githubusercontent.com/5466487/60066281-93cf1000-9741-11e9-9573-e0105a6db369.gif)
 
-### 11. All Check
+### 12. All Check
 This feature works on any profile edit page, field permission edit page, as below:
 
 ![Salesforce-DevTools-All-Check](https://user-images.githubusercontent.com/5466487/60066348-caa52600-9741-11e9-9674-4ddbe97ce985.gif)
 
 It will save you many many time on Salesforce deploy.
 
-
-### 12. Mass Edit custom fields
-Mass edit, mass delete, mass clone features work on any object fields page, as below: 
-
-![Salesforce-DevTools-Mass-Edit-Fields](https://user-images.githubusercontent.com/5466487/60066374-de508c80-9741-11e9-915d-ddf5ab336f15.gif)
-
-Clone to feature support to clone fields from one object to another, no need to create each again any more.
 
 
