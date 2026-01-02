@@ -8,12 +8,13 @@
 - [Exporting Salesforce data model (ERDs) as svg](#4-exporting-salesforce-data-model-erds)
 - [Exporting Page Layout Definitions as Excel](#5-exporting-object-page-layout-definitions)
 - [Exporting List View Definitions as Excel](#6-exporting-object-list-view-definitions)
-- [Apex Code Generator, Generating test data Apex Code](#7-apex-code-generator)
-- [Objects Search, quickly access to new record page, listview page and object setting page](#8-objects-search)
-- [Object Fields Search, quickly search all fields and show its data usage](#9-object-fields)
-- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#10-mass-edit-custom-fields)
-- [Powerful Debug Log search and viewer](#11-debug-log-search-and-viewer)
-- [All check on profile edit and field permission edit page (Only Classic)](#12-all-check)
+- [Exporting Flow Definitions as Excel](#7-exporting-flow-definitions)
+- [Apex Code Generator, Generating test data Apex Code](#8-apex-code-generator)
+- [Objects Search, quickly access to new record page, listview page and object setting page](#9-objects-search)
+- [Object Fields Search, quickly search all fields and show its data usage](#10-object-fields)
+- [Mass edit, mass delete, mass clone custom fields (Only Classic)](#11-mass-edit-custom-fields)
+- [Powerful Debug Log search and viewer](#12-debug-log-search-and-viewer)
+- [All check on profile edit and field permission edit page (Only Classic)](#13-all-check)
 
 
 ![Saleforce-DevTools](https://user-images.githubusercontent.com/5466487/60065045-7435e880-973d-11e9-9c3b-4e01268a589a.gif)
@@ -65,13 +66,20 @@ Open DevTools then click to export list view defination of single object or mult
 
 ![Salesforce-DevTools-Object-ListView-definations-exporter](https://user-images.githubusercontent.com/5466487/92428200-6e54e780-f1c9-11ea-9819-93e0f98bb283.png)
 
-### 7. Apex Code Generator
+### 7. Exporting Flow Definitions
+Open DevTools then click to export flow defination of single flow or multiple flows as Excel, as below: 
+
+![Salesforce-DevTools-Flow-definations-exporter](https://github.com/user-attachments/assets/8a93d71f-0869-4aa9-8fe6-4329a188bd58)
+
+![Salesforce-DevTools-Flow-definations-exporter](https://github.com/user-attachments/assets/84183295-c56e-411e-a358-6b36741195bd)
+
+### 8. Apex Code Generator
 This feature is available on any object record detail page, it generates Apex Code base on the record data, both Classic and Lightning, as below: 
 
 ![Saleforce-DevTools-Apex-Code-Generator](https://user-images.githubusercontent.com/5466487/60065095-a2b3c380-973d-11e9-940d-cf7989d9f953.png)
 
 
-### 8. Objects Search
+### 9. Objects Search
 Quickly search and access object new record, ListView, setting and API docs page, supports both Classic and Lightning, as below:
 
 <img width="451" alt="Saleforce-DevTools-Object-Search" src="https://user-images.githubusercontent.com/5466487/60065866-3ab2ac80-9740-11e9-8787-b2fd48498ff4.png">
@@ -84,24 +92,24 @@ Quickly search and access object new record, ListView, setting and API docs page
 |  ④  |  Salesforce object api page (only standard)  |
 |  ⑤  |  Object Query Editor  |
 
-### 9. Object Fields
+### 10. Object Fields
 Quickly search all fields and show its data usage, as below:
 
 ![Salesforce DevTools Object Fields v3 9 0](https://user-images.githubusercontent.com/5466487/151700291-17533a95-81c3-4d6f-97c2-7fdc0d9f53ef.gif)
 
-### 10. Mass Edit custom fields
+### 11. Mass Edit custom fields
 Mass edit, mass delete, mass clone features work on any object fields page, as below: 
 
 ![Salesforce-DevTools-Mass-Edit-Fields](https://user-images.githubusercontent.com/5466487/230711495-6fe3d5a7-fa7a-4d65-874a-e728040bab26.gif)
 
 Clone to feature support to clone fields from one object to another, no need to create each again any more.
 
-### 11. Debug Log Search and Viewer
+### 12. Debug Log Search and Viewer
 Open DevTools on any object page or debug logs page, then you can search any text in all Debug Logs as below:
 
 ![Salesforce-DevTools-Debug-Logs-Viewer](https://user-images.githubusercontent.com/5466487/60066281-93cf1000-9741-11e9-9573-e0105a6db369.gif)
 
-### 12. All Check
+### 13. All Check
 This feature works on any profile edit page, field permission edit page, as below:
 
 ![Salesforce-DevTools-All-Check](https://user-images.githubusercontent.com/5466487/60066348-caa52600-9741-11e9-9674-4ddbe97ce985.gif)
